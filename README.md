@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinay-ram1999
 - 👀 I’m interested in Aerospace, Automobiles, Astronomy, CFD
-- 🌱 I’m a mechanical engineering graduate
+- 🌱 I’m a Mechanical Engineering Graduate
 - 💞️ I’m looking to collaborate on CFD
 - 📫 reach me @ vinayramgazula@gmail.com
 
